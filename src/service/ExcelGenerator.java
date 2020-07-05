@@ -1,5 +1,5 @@
 package service;
-/*
+
 import java.io.FileOutputStream;
 import java.io.IOException;
 
@@ -22,8 +22,6 @@ public class ExcelGenerator {
 	public HSSFWorkbook excelGenerate(Prograd prograd, List<Prograd> list) throws IOException {
 		try {
 
-
-			
 			// Type your code here
 			
 		
@@ -44,4 +42,3 @@ public class ExcelGenerator {
 		
 	}
 }
-*/
